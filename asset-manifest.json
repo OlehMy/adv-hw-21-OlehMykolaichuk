@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/adv-hw-21-OlehMykolaichuk/static/css/main.e57bb6bf.chunk.css",
+    "main.js": "/adv-hw-21-OlehMykolaichuk/static/js/main.7e491fb8.chunk.js",
+    "main.js.map": "/adv-hw-21-OlehMykolaichuk/static/js/main.7e491fb8.chunk.js.map",
+    "runtime-main.js": "/adv-hw-21-OlehMykolaichuk/static/js/runtime-main.080a1110.js",
+    "runtime-main.js.map": "/adv-hw-21-OlehMykolaichuk/static/js/runtime-main.080a1110.js.map",
+    "static/js/2.ec0a3d90.chunk.js": "/adv-hw-21-OlehMykolaichuk/static/js/2.ec0a3d90.chunk.js",
+    "static/js/2.ec0a3d90.chunk.js.map": "/adv-hw-21-OlehMykolaichuk/static/js/2.ec0a3d90.chunk.js.map",
+    "static/js/3.5838d708.chunk.js": "/adv-hw-21-OlehMykolaichuk/static/js/3.5838d708.chunk.js",
+    "static/js/3.5838d708.chunk.js.map": "/adv-hw-21-OlehMykolaichuk/static/js/3.5838d708.chunk.js.map",
+    "index.html": "/adv-hw-21-OlehMykolaichuk/index.html",
+    "static/css/main.e57bb6bf.chunk.css.map": "/adv-hw-21-OlehMykolaichuk/static/css/main.e57bb6bf.chunk.css.map",
+    "static/js/2.ec0a3d90.chunk.js.LICENSE.txt": "/adv-hw-21-OlehMykolaichuk/static/js/2.ec0a3d90.chunk.js.LICENSE.txt",
+    "static/media/photo1.adb1704e.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo1.adb1704e.jpg",
+    "static/media/photo10.4c251504.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo10.4c251504.jpg",
+    "static/media/photo11.6fa3e9e0.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo11.6fa3e9e0.jpg",
+    "static/media/photo12.59c24d08.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo12.59c24d08.jpg",
+    "static/media/photo13.d2493c1e.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo13.d2493c1e.jpg",
+    "static/media/photo14.61f7e1c3.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo14.61f7e1c3.jpg",
+    "static/media/photo15.edfb6cdc.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo15.edfb6cdc.jpg",
+    "static/media/photo16.2629b7a7.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo16.2629b7a7.jpg",
+    "static/media/photo17.3894b531.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo17.3894b531.jpg",
+    "static/media/photo18.efa6623e.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo18.efa6623e.jpg",
+    "static/media/photo2.7874a570.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo2.7874a570.jpg",
+    "static/media/photo3.f04930b6.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo3.f04930b6.jpg",
+    "static/media/photo4.7f502a15.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo4.7f502a15.jpg",
+    "static/media/photo5.f5e8b38e.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo5.f5e8b38e.jpg",
+    "static/media/photo6.9ca7d680.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo6.9ca7d680.jpg",
+    "static/media/photo7.90eeb681.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo7.90eeb681.jpg",
+    "static/media/photo8.aea5cd50.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo8.aea5cd50.jpg",
+    "static/media/photo9.bc25c897.jpg": "/adv-hw-21-OlehMykolaichuk/static/media/photo9.bc25c897.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.080a1110.js",
+    "static/js/2.ec0a3d90.chunk.js",
+    "static/css/main.e57bb6bf.chunk.css",
+    "static/js/main.7e491fb8.chunk.js"
+  ]
+}
