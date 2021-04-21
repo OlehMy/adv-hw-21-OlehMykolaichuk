@@ -1,0 +1,107 @@
+.contacts {
+    margin: 5vh auto;
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact {
+    width: 350px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid darksalmon;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.8);    
+    color: darksalmon;
+    margin: 30px;
+    box-shadow: 0 0 5px 3px rgb(177, 179, 67);
+}
+
+.contact span {
+    color: cyan;
+}
+
+.contact-photo {
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    margin: 20px;    
+    border-radius: 50%;
+    -webkit-transition: border-radius .3s ease-in-out;
+    transition: border-radius .3s ease-in-out;
+}
+
+.contact-photo:hover {
+    border-radius: 15px;
+}
+
+.contact-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contact p {
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+.search {
+    display: block;
+    text-align: center;
+    width: fit-content;
+    margin: 30px;
+}
+
+.search input {    
+    width: 250px;
+    height: 30px;
+    border: 2px solid darksalmon;
+    border-radius: 5px;
+    background-color: black;
+    outline-style: none;
+    color: darksalmon;
+    padding: 5px 10px;
+    font-size: 15px;
+    font-family: 'Segoe UI';
+}
+
+button {
+    margin: 20px;
+    cursor: pointer;
+    font-family: 'Fredericka the Great', sans-serif;
+    font-size: 18px;
+    width: 135px;
+    height: 55px;
+    outline: none;
+    background-color: rgb(179, 67, 67);
+    border: 2px solid darksalmon;
+    border-radius: 5px;
+    -webkit-transition: background-color .2s linear, color .2s linear, box-shadow .3s ease-in-out;
+    transition: background-color .2s linear, color .2s linear, box-shadow .3s ease-in-out;
+}
+
+button:hover,
+button:disabled {
+    background-color: black;
+    color: rgb(179, 67, 67);
+    box-shadow: 0 0 10px 5px rgb(177, 179, 67);
+}
+
+
+@media (max-width: 576px) {
+    .contact {
+        width: 250px;
+        height: 250px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contact-photo {
+        margin: 20px 20px 8px;
+    }    
+}
