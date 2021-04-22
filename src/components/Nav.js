@@ -3,19 +3,19 @@ import { NavLink } from "react-router-dom";
 
 const links = [
     {
-        to: '/',
+        to: '/adv-hw-21-OlehMykolaichuk/',
         label: 'Home',
     },
     {
-        to: '/posts',
+        to: '/adv-hw-21-OlehMykolaichuk/posts',
         label: 'Posts',
     },
     {
-        to: '/photos',
+        to: '/adv-hw-21-OlehMykolaichuk/photos',
         label: 'Photos',
     },
     {
-        to: '/contacts',
+        to: '/adv-hw-21-OlehMykolaichuk/contacts',
         label: 'Contacts',
     },
 ];

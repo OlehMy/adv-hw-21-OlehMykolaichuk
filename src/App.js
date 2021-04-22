@@ -14,10 +14,10 @@ function App() {
       </header>
       <main className = "main">
         <Switch>
-          <Route path = '/' exact component = {HomePage}/>
-          <Route path = '/posts' component = {PostsPage}/>
-          <Route path = '/photos' component = {PhotosPage}/>
-          <Route path = '/contacts' component = {ContactsPage}/>
+          <Route path = '/adv-hw-21-OlehMykolaichuk/' exact component = {HomePage}/>
+          <Route path = '/adv-hw-21-OlehMykolaichuk/posts' component = {PostsPage}/>
+          <Route path = '/adv-hw-21-OlehMykolaichuk/photos' component = {PhotosPage}/>
+          <Route path = '/adv-hw-21-OlehMykolaichuk/contacts' component = {ContactsPage}/>
           <Route path = '*'>
             <p className = "error flex">404: page not found</p>
           </Route>
